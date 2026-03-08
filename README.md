@@ -41,16 +41,6 @@ It focuses on **component-based UI design**, **event handling**, and **state man
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-<img src="images/preview.png" width="700">
-</p>
-
-> *(Add your screenshot here after running the project)*
-
----
-
 ## 🛠 Installation
 
 Clone the repository:
@@ -85,7 +75,7 @@ http://localhost:5173
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure 📂
 
 ```
 React-Virtual-key-board
@@ -114,6 +104,17 @@ This project focuses on practicing:
 
 ---
 
+## Create with good vibes by: 🎉
+
+<p align="center">
+  <img src="EC2.jpeg" width="600">
+</p>
+                             
+<p align="center">                    
+  <a href="https://github.com/ElyasafCohen100">
+     <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
