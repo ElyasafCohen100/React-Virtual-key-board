@@ -2,15 +2,130 @@
   <img src="10.png"/>
 </p>
 
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ⌨️ React Virtual Keyboard ⌨️
 
-Currently, two official plugins are available:
+![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/React-Virtual-key-board?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/React-Virtual-key-board?style=social)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> 💻 **React UI Project**
+> A virtual keyboard built with React that allows users to type text directly on screen using clickable keys.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Overview
+
+This project demonstrates how to build an **interactive virtual keyboard interface** using **React**.
+
+The application simulates a keyboard layout and allows users to input text by clicking keys on the screen.
+It focuses on **component-based UI design**, **event handling**, and **state management** in React.
+
+---
+
+## 🏷️ Technologies
+
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Styling-264DE4?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
+## ✨ Features
+
+* ⌨️ Interactive on-screen keyboard
+* 🧠 Built using React components
+* ⚡ Fast development environment using **Vite**
+* 🎨 Styled keyboard layout using CSS
+* 🖱️ Clickable keys that simulate typing
+
+---
+
+## 📸 Preview
+
+<p align="center">
+<img src="images/preview.png" width="700">
+</p>
+
+> *(Add your screenshot here after running the project)*
+
+---
+
+## 🛠 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ElyasafCohen100/React-Virtual-key-board.git
+```
+
+Navigate into the project folder:
+
+```bash
+cd React-Virtual-key-board
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 📂 Project Structure
+
+```
+React-Virtual-key-board
+│
+├── public
+├── src
+│   ├── components
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── index.html
+├── vite.config.js
+└── package.json
+```
+
+---
+
+## 📚 Learning Goals 📚
+
+This project focuses on practicing:
+
+* React component architecture
+* Event handling in React
+* Managing UI state
+* Building interactive interfaces
+
+---
+
+## Create with good vibes by: 🎉
+
+<p align="center">
+  <img src="EC2.jpeg" width="600">
+</p>
+                             
+<p align="center">                    
+  <a href="https://github.com/ElyasafCohen100">
+     <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+⭐ If you found this project interesting, feel free to star the repository!
