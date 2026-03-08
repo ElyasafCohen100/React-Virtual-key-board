@@ -114,17 +114,6 @@ This project focuses on practicing:
 
 ---
 
-## Create with good vibes by: 🎉
-
-<p align="center">
-  <img src="EC2.jpeg" width="600">
-</p>
-                             
-<p align="center">                    
-  <a href="https://github.com/ElyasafCohen100">
-     <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-black?style=for-the-badge&logo=github">
-  </a>
-</p>
 
 ---
 
