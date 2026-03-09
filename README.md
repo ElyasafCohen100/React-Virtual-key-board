@@ -118,4 +118,4 @@ This project focuses on practicing:
 
 ---
 
-⭐ If you found this project interesting, feel free to star the repository!
+> ✨ If you like this project – please leave a star! ✨
